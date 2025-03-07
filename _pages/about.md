@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+Hello, my name is You Xu. I'm a final-year Ph.D. candidate in the Wuhan National Laboratory for Optoelectronics at the Huazhong University of Science and Technology. I work on millimeter-wave non-line-of-sight imaging algorithms under different relay surfaces, especially using electromagnetic features of these relay surfaces to enhance the target contour reconstruction capability in the non-line-of-sight region.
+ 
 
 Research
 **Compressed sensing for Structured Recovery Problems**
